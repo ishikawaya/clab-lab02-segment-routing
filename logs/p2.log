@@ -1,0 +1,353 @@
+2025/11/22 01:32:28 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 LDP: [G6NKK-8C6DV] end_config: VTY:0x7ccb8ea6f610, pending SET-CFG: 0
+2025/11/22 01:32:28 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7e08e3bb0070, pending SET-CFG: 0
+2025/11/22 01:32:28 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 BGP: [G6NKK-8C6DV] end_config: VTY:0x70b72ea300b0, pending SET-CFG: 0
+2025/11/22 01:32:28 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 ISIS: [G6NKK-8C6DV] end_config: VTY:0x770ce4fc71c0, pending SET-CFG: 0
+2025/11/22 01:32:28 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 STATIC: [G6NKK-8C6DV] end_config: VTY:0x7a6bb378f0c0, pending SET-CFG: 0
+2025/11/22 01:32:28 ZEBRA: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 ZEBRA: [G6NKK-8C6DV] end_config: VTY:0x7601e266ac70, pending SET-CFG: 0
+2025/11/22 01:32:28 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x7c51a0560050, pending SET-CFG: 0
+2025/11/22 01:32:28 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:28 PATH: [G6NKK-8C6DV] end_config: VTY:0x73d934800190, pending SET-CFG: 0
+2025/11/22 01:32:28 OSPF6: [GZ318-0J443] Zebra: got delete of lo10, but interface is still up
+2025/11/22 01:32:28 OSPF6: [GZ318-0J443] Zebra: got delete of lo20, but interface is still up
+2025/11/22 01:43:05 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 ISIS: [G6NKK-8C6DV] end_config: VTY:0x7e8caed961b0, pending SET-CFG: 0
+2025/11/22 01:43:05 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 BGP: [G6NKK-8C6DV] end_config: VTY:0x77ddbab630b0, pending SET-CFG: 0
+2025/11/22 01:43:05 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 PATH: [G6NKK-8C6DV] end_config: VTY:0x7c10014b6180, pending SET-CFG: 0
+2025/11/22 01:43:05 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7d3cefafb060, pending SET-CFG: 0
+2025/11/22 01:43:05 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 LDP: [G6NKK-8C6DV] end_config: VTY:0x7abff6d1e610, pending SET-CFG: 0
+2025/11/22 01:43:05 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x797ca3f21050, pending SET-CFG: 0
+2025/11/22 01:43:05 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 STATIC: [G6NKK-8C6DV] end_config: VTY:0x7ee962f520c0, pending SET-CFG: 0
+2025/11/22 01:43:05 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 01:43:05 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 01:44:23 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 ISIS: [G6NKK-8C6DV] end_config: VTY:0x7b6cc7f9b1b0, pending SET-CFG: 0
+2025/11/22 01:44:23 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 LDP: [G6NKK-8C6DV] end_config: VTY:0x74b298584610, pending SET-CFG: 0
+2025/11/22 01:44:23 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 BGP: [G6NKK-8C6DV] end_config: VTY:0x7bffc26b40b0, pending SET-CFG: 0
+2025/11/22 01:44:23 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 OSPF: [G6NKK-8C6DV] end_config: VTY:0x787fd7a3b070, pending SET-CFG: 0
+2025/11/22 01:44:23 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x7ebb6dac3050, pending SET-CFG: 0
+2025/11/22 01:44:23 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 PATH: [G6NKK-8C6DV] end_config: VTY:0x75e08230b190, pending SET-CFG: 0
+2025/11/22 01:44:23 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 STATIC: [G6NKK-8C6DV] end_config: VTY:0x7628414130c0, pending SET-CFG: 0
+2025/11/22 01:44:24 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 01:44:24 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 01:44:24 OSPF6: [GZ318-0J443] Zebra: got delete of lo10, but interface is still up
+2025/11/22 01:44:24 OSPF6: [GZ318-0J443] Zebra: got delete of lo20, but interface is still up
+2025/11/22 01:49:32 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7ffe6924af98 arg=0x7411ddf8b910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4154ms late, warning threshold 4000ms. System load: 0.20, 0.39, 0.25
+2025/11/22 01:51:21 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7ffe6924af98 arg=0x7411ddf8b910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4111ms late, warning threshold 4000ms. System load: 0.21, 0.32, 0.24
+2025/11/22 01:51:41 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7ffe6924af98 arg=0x7411ddf8b910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4556ms late, warning threshold 4000ms. System load: 0.15, 0.30, 0.24
+2025/11/22 02:06:57 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x7705f712d050, pending SET-CFG: 0
+2025/11/22 02:06:57 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 LDP: [G6NKK-8C6DV] end_config: VTY:0x70684aefe610, pending SET-CFG: 0
+2025/11/22 02:06:57 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 STATIC: [G6NKK-8C6DV] end_config: VTY:0x719ae03e50c0, pending SET-CFG: 0
+2025/11/22 02:06:57 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 PATH: [G6NKK-8C6DV] end_config: VTY:0x700e6f06c190, pending SET-CFG: 0
+2025/11/22 02:06:57 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 BGP: [G6NKK-8C6DV] end_config: VTY:0x7a5aa1cb20b0, pending SET-CFG: 0
+2025/11/22 02:06:57 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 ISIS: [G6NKK-8C6DV] end_config: VTY:0x75fe0bb6f1b0, pending SET-CFG: 0
+2025/11/22 02:06:57 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 OSPF: [G6NKK-8C6DV] end_config: VTY:0x78cf81d0e070, pending SET-CFG: 0
+2025/11/22 02:06:57 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 02:06:57 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 02:06:58 OSPF6: [GZ318-0J443] Zebra: got delete of lo10, but interface is still up
+2025/11/22 02:06:58 OSPF6: [GZ318-0J443] Zebra: got delete of lo20, but interface is still up
+2025/11/22 02:09:10 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x70352bd6f050, pending SET-CFG: 0
+2025/11/22 02:09:10 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 OSPF: [G6NKK-8C6DV] end_config: VTY:0x779eabf86070, pending SET-CFG: 0
+2025/11/22 02:09:10 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:01
+2025/11/22 02:09:10 LDP: [G6NKK-8C6DV] end_config: VTY:0x79e955130610, pending SET-CFG: 0
+2025/11/22 02:09:10 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 ISIS: [G6NKK-8C6DV] end_config: VTY:0x74c66abb11c0, pending SET-CFG: 0
+2025/11/22 02:09:10 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 PATH: [G6NKK-8C6DV] end_config: VTY:0x797fa3cf5190, pending SET-CFG: 0
+2025/11/22 02:09:10 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 STATIC: [G6NKK-8C6DV] end_config: VTY:0x776f588130c0, pending SET-CFG: 0
+2025/11/22 02:09:10 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 BGP: [G6NKK-8C6DV] end_config: VTY:0x7937740430b0, pending SET-CFG: 0
+2025/11/22 02:09:11 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 02:09:11 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 02:09:11 OSPF6: [GZ318-0J443] Zebra: got delete of lo10, but interface is still up
+2025/11/22 02:09:11 OSPF6: [GZ318-0J443] Zebra: got delete of lo20, but interface is still up
+2025/11/22 02:11:37 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7ffc3b2f55f8 arg=0x78f3aac20910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 6535ms late, warning threshold 4000ms. System load: 0.22, 0.57, 0.38
+2025/11/22 02:16:54 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7ffc3b2f55f8 arg=0x78f3aac20910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4270ms late, warning threshold 4000ms. System load: 0.11, 0.26, 0.29
+2025/11/22 02:19:21 PATH: [NN4XW-E4M3V] IPv6 Router Id updated for VRF 0: fc00:1:2::1
+2025/11/22 02:19:21 ISIS: [S89PV-K124N] isis_zebra_process_srv6_locator_internal: Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 02:19:21 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0001.0001 (eth2) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 02:19:21 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0001.0001 (eth2) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 02:19:23 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe2 (eth1) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 02:19:24 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe2 (eth1) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 02:23:34 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe4 (eth3) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 02:23:34 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe4 (eth3) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 02:24:57 PATH: [NN4XW-E4M3V] IPv4 Router Id updated for VRF 0: 172.16.1.2
+2025/11/22 02:40:34 BGP: [M95PE-ZW8F6] VRF default(0): bgp_zebra_process_srv6_locator_internal, Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 02:40:35 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:2::1 in vrf default
+2025/11/22 02:40:35 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:2::1 in vrf default
+2025/11/22 02:40:35 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:2::1 in vrf default
+2025/11/22 02:40:35 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:1::1 in vrf default
+2025/11/22 02:40:35 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:1::1 in vrf default
+2025/11/22 02:40:35 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:1::1 in vrf default
+2025/11/22 02:40:36 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:1:1::1 in vrf default
+2025/11/22 02:40:36 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:1:1::1 in vrf default
+2025/11/22 02:40:36 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:1:1::1 in vrf default
+2025/11/22 02:41:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:3::1 in vrf default
+2025/11/22 02:41:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:3::1 in vrf default
+2025/11/22 02:41:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:3::1 in vrf default
+2025/11/22 02:41:58 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:4::1 in vrf default
+2025/11/22 02:41:58 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:4::1 in vrf default
+2025/11/22 02:41:58 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:4::1 in vrf default
+2025/11/22 03:17:36 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:1::1
+2025/11/22 03:17:37 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:1::1 in vrf default
+2025/11/22 03:17:37 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:1::1 in vrf default
+2025/11/22 03:17:37 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:1::1 in vrf default
+2025/11/22 03:36:53 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe2 (eth1) for level-2 changed from Up to Down, circuit is being brought down
+2025/11/22 03:36:53 ISIS: [TBBSQ-HBJMF] IS-IS pfpacket: could not transmit packet on eth1: Network is down
+2025/11/22 03:36:53 ISIS: [G7ZA5-AT06A][EC 67108865] ISIS-Adj (core): Send L2 IIH on eth1 failed
+2025/11/22 03:36:53 ZEBRA: [SWQK6-6JY63][EC 4043309074] 0:254:fc00:0:2::1/128: Failed to enqueue dataplane install
+2025/11/22 03:36:53 ZEBRA: [SWQK6-6JY63][EC 4043309074] 0:254:fc00:0:2::/48: Failed to enqueue dataplane install
+2025/11/22 03:36:53 ISIS: [M7QDW-48DP2] isis_recv_pdu_bcast: ifname eth2, fd 21, bytesread -1, recvfrom(): Network is down
+2025/11/22 03:36:53 ISIS: [P42KE-G0CDM] packet is received on multiple interfaces: socket interface 0, circuit interface 144, packet type 0
+2025/11/22 03:36:53 ISIS: [PT8ND-1Y17N] isis_recv_pdu_bcast: recvfrom() failed
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=329, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=330, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=331, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] red(7:20):fc00:b:1:1::/64: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] red(7:20):5:1:2::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):1:2:2::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=334, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=335, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=336, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=337, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=338, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=339, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=340, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=341, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=342, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=343, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=344, pid=3278969927
+2025/11/22 03:36:53 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to p1 (eth2) for level-2 changed from Up to Down, circuit is being brought down
+2025/11/22 03:36:53 ISIS: [TBBSQ-HBJMF] IS-IS pfpacket: could not transmit packet on eth2: No such device or address
+2025/11/22 03:36:53 ISIS: [G7ZA5-AT06A][EC 67108865] ISIS-Adj (core): Send L2 IIH on eth2 failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] red(7:20):5:1:1::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):fc00:a:1:1::/64: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):1:2:1::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):1:1:1::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] red(7:20):5:1:1:1::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):1:2:1:1::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] default(0:254):fc00:1:1::1/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] default(0:254):fc00:1:1::/48: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] default(0:254):fc00:0:1::1/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] default(0:254):fc00:0:1::/48: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] default(0:254):fc00:1:2:1::/128: Route install failed
+2025/11/22 03:36:53 ISIS: [M7QDW-48DP2] isis_recv_pdu_bcast: ifname eth3, fd 22, bytesread -1, recvfrom(): Network is down
+2025/11/22 03:36:53 ISIS: [P42KE-G0CDM] packet is received on multiple interfaces: socket interface 0, circuit interface 135, packet type 0
+2025/11/22 03:36:53 ISIS: [PT8ND-1Y17N] isis_recv_pdu_bcast: recvfrom() failed
+2025/11/22 03:36:53 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe4 (eth3) for level-2 changed from Up to Down, circuit is being brought down
+2025/11/22 03:36:53 ISIS: [TBBSQ-HBJMF] IS-IS pfpacket: could not transmit packet on eth3: No such device or address
+2025/11/22 03:36:53 ISIS: [G7ZA5-AT06A][EC 67108865] ISIS-Adj (core): Send L2 IIH on eth3 failed
+2025/11/22 03:36:53 ZEBRA: [SWQK6-6JY63][EC 4043309074] 0:254:fc00:0:4::1/128: Failed to enqueue dataplane install
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=348, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=349, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=350, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=351, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [HSYZM-HV7HF] Extended Error: Nexthop id does not exist
+2025/11/22 03:36:53 ZEBRA: [WVJCK-PPMGD][EC 4043309093] netlink-dp (NS 0) error: Invalid argument, type=RTM_NEWROUTE(24), seq=352, pid=3278969927
+2025/11/22 03:36:53 ZEBRA: [SWQK6-6JY63][EC 4043309074] 0:254:fc00:0:4::/48: Failed to enqueue dataplane install
+2025/11/22 03:36:53 ZEBRA: [SWQK6-6JY63][EC 4043309074] 0:254:fc00:0:3::1/128: Failed to enqueue dataplane install
+2025/11/22 03:36:53 ZEBRA: [SWQK6-6JY63][EC 4043309074] 0:254:fc00:0:3::/48: Failed to enqueue dataplane install
+2025/11/22 03:36:53 ZEBRA: [SWQK6-6JY63][EC 4043309074] 0:254:fc00:1:2:3::/128: Failed to enqueue dataplane install
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] red(7:20):5:1:4::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] red(7:20):5:1:3::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):1:2:4::/128: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):fc00:a:1:2::/64: Route install failed
+2025/11/22 03:36:53 ZEBRA: [VYKYC-709DP] blue(6:10):1:2:3::/128: Route install failed
+2025/11/22 04:22:52 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 BGP: [G6NKK-8C6DV] end_config: VTY:0x7ccc5e6570b0, pending SET-CFG: 0
+2025/11/22 04:22:52 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 OSPF: [G6NKK-8C6DV] end_config: VTY:0x753c36cd5060, pending SET-CFG: 0
+2025/11/22 04:22:52 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 LDP: [G6NKK-8C6DV] end_config: VTY:0x76e06a8ea610, pending SET-CFG: 0
+2025/11/22 04:22:52 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x756ace7fa050, pending SET-CFG: 0
+2025/11/22 04:22:52 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 ISIS: [G6NKK-8C6DV] end_config: VTY:0x766a3f3901b0, pending SET-CFG: 0
+2025/11/22 04:22:52 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 PATH: [G6NKK-8C6DV] end_config: VTY:0x7bbc33ddd190, pending SET-CFG: 0
+2025/11/22 04:22:52 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 04:22:52 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 04:22:53 OSPF6: [GZ318-0J443] Zebra: got delete of lo10, but interface is still up
+2025/11/22 04:22:53 OSPF6: [GZ318-0J443] Zebra: got delete of lo20, but interface is still up
+2025/11/22 05:00:32 PATH: [NN4XW-E4M3V] IPv4 Router Id updated for VRF 0: 172.16.1.2
+2025/11/22 05:00:32 PATH: [NN4XW-E4M3V] IPv6 Router Id updated for VRF 0: fc00:1:2::1
+2025/11/22 05:00:32 BGP: [M95PE-ZW8F6] VRF default(0): bgp_zebra_process_srv6_locator_internal, Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 05:00:32 ISIS: [S89PV-K124N] isis_zebra_process_srv6_locator_internal: Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 05:00:34 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0000.0002 (eth1) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 05:00:34 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0000.0002 (eth1) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 05:01:04 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:2::1 in vrf default
+2025/11/22 05:01:04 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:2::1 in vrf default
+2025/11/22 05:01:04 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:2::1 in vrf default
+2025/11/22 05:01:04 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:1::1 in vrf default
+2025/11/22 05:01:04 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:1::1 in vrf default
+2025/11/22 05:01:04 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:1::1 in vrf default
+2025/11/22 05:03:35 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0001.0001 (eth2) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 05:03:35 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0001.0001 (eth2) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 05:04:07 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:1:1::1 in vrf default
+2025/11/22 05:04:07 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:1:1::1 in vrf default
+2025/11/22 05:04:07 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:1:1::1 in vrf default
+2025/11/22 08:43:38 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 PATH: [G6NKK-8C6DV] end_config: VTY:0x7aa3aa16f180, pending SET-CFG: 0
+2025/11/22 08:43:38 PATH: [NN4XW-E4M3V] IPv4 Router Id updated for VRF 0: 172.16.1.2
+2025/11/22 08:43:38 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 ISIS: [G6NKK-8C6DV] end_config: VTY:0x7b9e016d01b0, pending SET-CFG: 0
+2025/11/22 08:43:38 ISIS: [S89PV-K124N] isis_zebra_process_srv6_locator_internal: Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 08:43:38 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7df86da0b060, pending SET-CFG: 0
+2025/11/22 08:43:38 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x70c810c94050, pending SET-CFG: 0
+2025/11/22 08:43:38 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 LDP: [G6NKK-8C6DV] end_config: VTY:0x7263394cd610, pending SET-CFG: 0
+2025/11/22 08:43:38 BGP: [M95PE-ZW8F6] VRF default(0): bgp_zebra_process_srv6_locator_internal, Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 08:43:38 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 BGP: [G6NKK-8C6DV] end_config: VTY:0x7841912be0b0, pending SET-CFG: 0
+2025/11/22 08:43:40 PATH: [NN4XW-E4M3V] IPv6 Router Id updated for VRF 0: 3fff:172:20:20:42:acff:fe14:140b
+2025/11/22 08:46:13 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x79111312e050, pending SET-CFG: 0
+2025/11/22 08:46:13 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 LDP: [G6NKK-8C6DV] end_config: VTY:0x7ac40fb6d610, pending SET-CFG: 0
+2025/11/22 08:46:13 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 STATIC: [G6NKK-8C6DV] end_config: VTY:0x70bb7bfcc0c0, pending SET-CFG: 0
+2025/11/22 08:46:13 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7d71f679a070, pending SET-CFG: 0
+2025/11/22 08:46:13 ZEBRA: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 ZEBRA: [G6NKK-8C6DV] end_config: VTY:0x79ba979b9c00, pending SET-CFG: 0
+2025/11/22 08:46:13 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 PATH: [G6NKK-8C6DV] end_config: VTY:0x7c4f076e4190, pending SET-CFG: 0
+2025/11/22 08:46:13 BGP: [M95PE-ZW8F6] VRF default(0): bgp_zebra_process_srv6_locator_internal, Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 08:46:13 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 BGP: [G6NKK-8C6DV] end_config: VTY:0x78cdbb0b20b0, pending SET-CFG: 0
+2025/11/22 08:46:13 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:13 ISIS: [G6NKK-8C6DV] end_config: VTY:0x759b9aae61c0, pending SET-CFG: 0
+2025/11/22 08:46:13 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0000.0002 (eth1) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 08:46:13 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0000.0002 (eth1) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 08:46:13 ISIS: [S89PV-K124N] isis_zebra_process_srv6_locator_internal: Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 08:46:13 ISIS: [S89PV-K124N] isis_zebra_process_srv6_locator_internal: Received SRv6 locator loc01 fc00:1:2::/48, loc-block-len=24, loc-node-len=24 func-len=16, arg-len=0
+2025/11/22 08:46:13 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0001.0001 (eth2) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 08:46:13 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0001.0001 (eth2) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 08:46:14 OSPF6: [GZ318-0J443] Zebra: got delete of lo10, but interface is still up
+2025/11/22 08:46:15 OSPF6: [GZ318-0J443] Zebra: got delete of lo20, but interface is still up
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:1:1::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:1:1::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:1:1::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:2::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:2::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:1::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:1::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:2::1 in vrf default
+2025/11/22 08:46:45 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:1::1 in vrf default
+2025/11/22 08:55:27 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:3::1 in vrf default
+2025/11/22 08:55:27 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:3::1 in vrf default
+2025/11/22 08:55:27 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:3::1 in vrf default
+2025/11/22 08:59:09 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0000.0004 (eth3) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 08:59:10 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to 0000.0000.0004 (eth3) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 08:59:41 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:4::1 in vrf default
+2025/11/22 08:59:41 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:4::1 in vrf default
+2025/11/22 08:59:41 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:4::1 in vrf default
+2025/11/22 09:11:55 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:3::1 in vrf default
+2025/11/22 09:11:55 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:3::1 in vrf default
+2025/11/22 09:11:55 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:3::1 in vrf default
+2025/11/22 09:12:11 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:1:1::1
+2025/11/22 09:12:13 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:1:1::1 in vrf default
+2025/11/22 09:12:13 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:1:1::1 in vrf default
+2025/11/22 09:12:13 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:1:1::1 in vrf default
+2025/11/22 09:12:21 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:4::1 in vrf default
+2025/11/22 09:12:21 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:3::1 in vrf default
+2025/11/22 09:12:22 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:1::1 in vrf default
+2025/11/22 09:12:22 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:2::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:4::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:4::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:1::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:1::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:2::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:2::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:3::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:3::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:1:1::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:1:1::1 in vrf default
+2025/11/22 09:12:23 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:1:1::1 in vrf default
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe2 (eth1) for level-2 changed from Up to Down, clear user request
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to p1 (eth2) for level-2 changed from Up to Down, clear user request
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe4 (eth3) for level-2 changed from Up to Down, clear user request
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to p1 (eth2) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to p1 (eth2) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe2 (eth1) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe2 (eth1) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe4 (eth3) for level-2 changed from Unknown to Initializing, unspecified
+2025/11/22 09:12:25 ISIS: [Q7SVW-YVKRH] %ADJCHANGE: Adjacency to pe4 (eth3) for level-2 changed from Initializing to Up, unspecified
+2025/11/22 09:12:55 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:3::1
+2025/11/22 09:12:55 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:2::1
+2025/11/22 09:12:55 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:1:1::1
+2025/11/22 09:12:55 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:4::1
+2025/11/22 09:12:55 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:1::1
+2025/11/22 09:12:57 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:3::1
+2025/11/22 09:12:57 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:1:1::1
+2025/11/22 09:12:57 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:2::1
+2025/11/22 09:12:57 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:4::1
+2025/11/22 09:12:57 BGP: [MVZKX-EG443][EC 33554452] bgp_process_packet: BGP OPEN receipt failed for peer: fc00:0:1::1
+2025/11/22 09:12:58 BGP: [H4B4J-DCW2R][EC 33554455] fc00:1:1::1 [Error] bgp_read_packet error: Connection reset by peer
+2025/11/22 09:12:58 BGP: [H4B4J-DCW2R][EC 33554455] fc00:0:2::1 [Error] bgp_read_packet error: Connection reset by peer
+2025/11/22 09:12:58 BGP: [H4B4J-DCW2R][EC 33554455] fc00:0:3::1 [Error] bgp_read_packet error: Connection reset by peer
+2025/11/22 09:12:58 BGP: [H4B4J-DCW2R][EC 33554455] fc00:0:1::1 [Error] bgp_read_packet error: Connection reset by peer
+2025/11/22 09:12:58 BGP: [H4B4J-DCW2R][EC 33554455] fc00:0:4::1 [Error] bgp_read_packet error: Connection reset by peer
+2025/11/22 09:12:59 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:2::1 in vrf default
+2025/11/22 09:12:59 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:3::1 in vrf default
+2025/11/22 09:12:59 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:1::1 in vrf default
+2025/11/22 09:12:59 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:0:4::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:4::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:4::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:1::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:1::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:2::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:2::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:0:3::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:0:3::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 Unicast from fc00:1:1::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv4 VPN from fc00:1:1::1 in vrf default
+2025/11/22 09:13:01 BGP: [M59KS-A3ZXZ] bgp_update_receive_eor: rcvd End-of-RIB for IPv6 VPN from fc00:1:1::1 in vrf default

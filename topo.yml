@@ -1,0 +1,193 @@
+name: lab02
+
+topology:
+  defaults:
+    kind: linux
+    image: quay.io/frrouting/frr:10.5.0
+    binds:
+      - ./params/daemons:/etc/frr/daemons
+      - ./params/vtysh.conf:/etc/frr/vtysh.conf
+    exec:
+      - ip link add mgmt type vrf table 90
+      - ip link set dev mgmt up
+      - ip link set dev eth0 master mgmt
+      - sysctl -w net.vrf.strict_mode=1
+  nodes:
+    pe1:
+      binds:
+        - ./confs/pe1.conf:/etc/frr/frr.conf
+        - ./logs/pe1.log:/var/log/frr.log
+      exec:
+        - ip link add sr0 type dummy
+        - ip link add lo10 type dummy
+        - ip link add lo20 type dummy
+        - ip link add blue type vrf table 10
+        - ip link add red type vrf table 20
+        - ip link set dev sr0 up
+        - ip link set dev lo10 up
+        - ip link set dev lo20 up
+        - ip link set dev blue up
+        - ip link set dev red up
+        - ip link set dev lo10 master blue
+        - ip link set dev lo20 master red
+        - ip link set dev eth3 master blue
+        - sysctl -w net.ipv6.conf.all.forwarding=1
+        - sysctl -w net.ipv6.conf.all.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.default.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth1.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth2.seg6_enabled=1
+        - sysctl -w net.vrf.strict_mode=1
+
+    pe2:
+      binds:
+        - ./confs/pe2.conf:/etc/frr/frr.conf
+        - ./logs/pe2.log:/var/log/frr.log
+      exec:
+        - ip link add sr0 type dummy
+        - ip link add lo10 type dummy
+        - ip link add lo20 type dummy
+        - ip link add blue type vrf table 10
+        - ip link add red type vrf table 20
+        - ip link set dev sr0 up
+        - ip link set dev lo10 up
+        - ip link set dev lo20 up
+        - ip link set dev blue up
+        - ip link set dev red up
+        - ip link set dev lo10 master blue
+        - ip link set dev lo20 master red
+        - ip link set dev eth3 master red
+        - sysctl -w net.ipv6.conf.all.forwarding=1
+        - sysctl -w net.ipv6.conf.all.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.default.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.sr0.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth1.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth2.seg6_enabled=1
+        - sysctl -w net.vrf.strict_mode=1
+    pe3:
+      binds:
+        - ./confs/pe3.conf:/etc/frr/frr.conf
+        - ./logs/pe3.log:/var/log/frr.log
+      exec:
+        - ip link add sr0 type dummy
+        - ip link add lo10 type dummy
+        - ip link add lo20 type dummy
+        - ip link add blue type vrf table 10
+        - ip link add red type vrf table 20
+        - ip link set dev sr0 up
+        - ip link set dev lo10 up
+        - ip link set dev lo20 up
+        - ip link set dev blue up
+        - ip link set dev red up
+        - ip link set dev lo10 master blue
+        - ip link set dev lo20 master red
+        - ip link set dev eth3 master blue
+        - ip link set dev eth4 master red
+        - sysctl -w net.ipv6.conf.all.forwarding=1
+        - sysctl -w net.ipv6.conf.all.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.default.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.sr0.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth1.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth2.seg6_enabled=1
+        - sysctl -w net.vrf.strict_mode=1
+    pe4:
+      binds:
+        - ./confs/pe4.conf:/etc/frr/frr.conf
+        - ./logs/pe4.log:/var/log/frr.log
+      exec:
+        - ip link add sr0 type dummy
+        - ip link add lo10 type dummy
+        - ip link add lo20 type dummy
+        - ip link add blue type vrf table 10
+        - ip link add red type vrf table 20
+        - ip link set dev sr0 up
+        - ip link set dev lo10 up
+        - ip link set dev lo20 up
+        - ip link set dev blue up
+        - ip link set dev red up
+        - ip link set dev lo10 master blue
+        - ip link set dev lo20 master red
+        - sysctl -w net.ipv6.conf.all.forwarding=1
+        - sysctl -w net.ipv6.conf.all.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.default.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.sr0.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth1.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth2.seg6_enabled=1
+        - sysctl -w net.vrf.strict_mode=1
+    p1:
+      binds:
+        - ./confs/p1.conf:/etc/frr/frr.conf
+        - ./logs/p1.log:/var/log/frr.log
+      exec:
+        - ip link add sr0 type dummy
+        - ip link add lo10 type dummy
+        - ip link add lo20 type dummy
+        - ip link add blue type vrf table 10
+        - ip link add red type vrf table 20
+        - ip link set dev sr0 up
+        - ip link set dev lo10 up
+        - ip link set dev lo20 up
+        - ip link set dev blue up
+        - ip link set dev red up
+        - ip link set dev lo10 master blue
+        - ip link set dev lo20 master red
+        - sysctl -w net.ipv6.conf.all.forwarding=1
+        - sysctl -w net.ipv6.conf.all.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.default.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.sr0.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth1.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth2.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth3.seg6_enabled=1
+        - sysctl -w net.vrf.strict_mode=1
+    p2:
+      binds:
+        - ./confs/p2.conf:/etc/frr/frr.conf
+        - ./logs/p2.log:/var/log/frr.log
+      exec:
+        - ip link add sr0 type dummy
+        - ip link add lo10 type dummy
+        - ip link add lo20 type dummy
+        - ip link add blue type vrf table 10
+        - ip link add red type vrf table 20
+        - ip link set dev sr0 up
+        - ip link set dev lo10 up
+        - ip link set dev lo20 up
+        - ip link set dev blue up
+        - ip link set dev red up
+        - ip link set dev lo10 master blue
+        - ip link set dev lo20 master red
+        - sysctl -w net.ipv6.conf.all.forwarding=1
+        - sysctl -w net.ipv6.conf.all.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.default.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.sr0.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth1.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth2.seg6_enabled=1
+        - sysctl -w net.ipv6.conf.eth3.seg6_enabled=1
+        - sysctl -w net.vrf.strict_mode=1
+    r1:
+      binds:
+        - ./confs/r1.conf:/etc/frr/frr.conf
+        - ./logs/r1.log:/var/log/frr.log
+    r2:
+      binds:
+        - ./confs/r2.conf:/etc/frr/frr.conf
+        - ./logs/r2.log:/var/log/frr.log
+    r5:
+      binds:
+        - ./confs/r5.conf:/etc/frr/frr.conf
+        - ./logs/r5.log:/var/log/frr.log
+    r6:
+      binds:
+        - ./confs/r6.conf:/etc/frr/frr.conf
+        - ./logs/r6.log:/var/log/frr.log
+  links:
+    - endpoints: ["pe1:eth1", "p1:eth1"]
+    - endpoints: ["pe1:eth2", "pe2:eth2"]
+    - endpoints: ["pe1:eth3", "r1:eth1"]
+    - endpoints: ["pe2:eth1", "p2:eth1"]
+    - endpoints: ["pe2:eth3", "r6:eth3"]
+    - endpoints: ["p1:eth2", "p2:eth2"]
+    - endpoints: ["pe3:eth1", "p1:eth3"]
+    - endpoints: ["pe3:eth2", "pe4:eth2"]
+    - endpoints: ["pe3:eth3", "r2:eth1"]
+    - endpoints: ["pe3:eth4", "r5:eth1"]
+    - endpoints: ["pe4:eth1", "p2:eth3"]

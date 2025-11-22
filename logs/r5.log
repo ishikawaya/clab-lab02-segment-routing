@@ -1,0 +1,162 @@
+2025/11/22 01:32:25 ZEBRA: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:26 ZEBRA: [G6NKK-8C6DV] end_config: VTY:0x7d43367e0c20, pending SET-CFG: 0
+2025/11/22 01:32:26 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:26 LDP: [G6NKK-8C6DV] end_config: VTY:0x782ec99dc610, pending SET-CFG: 0
+2025/11/22 01:32:26 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:01
+2025/11/22 01:32:26 OSPF: [G6NKK-8C6DV] end_config: VTY:0x76e6b834a060, pending SET-CFG: 0
+2025/11/22 01:32:26 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:26 ISIS: [G6NKK-8C6DV] end_config: VTY:0x76d4432f61b0, pending SET-CFG: 0
+2025/11/22 01:32:26 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:26 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x73a48bdc5050, pending SET-CFG: 0
+2025/11/22 01:32:26 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:26 BGP: [G6NKK-8C6DV] end_config: VTY:0x74d8221e40b0, pending SET-CFG: 0
+2025/11/22 01:32:26 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:26 STATIC: [G6NKK-8C6DV] end_config: VTY:0x7a7b334570c0, pending SET-CFG: 0
+2025/11/22 01:32:26 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:32:26 PATH: [G6NKK-8C6DV] end_config: VTY:0x721cd45c2180, pending SET-CFG: 0
+2025/11/22 01:32:42 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7ffd36394758 arg=0x7d43392a4910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4361ms late, warning threshold 4000ms. System load: 5.20, 1.37, 0.52
+2025/11/22 01:43:05 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 LDP: [G6NKK-8C6DV] end_config: VTY:0x7f95c0b9f610, pending SET-CFG: 0
+2025/11/22 01:43:05 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 ISIS: [G6NKK-8C6DV] end_config: VTY:0x730c118111b0, pending SET-CFG: 0
+2025/11/22 01:43:05 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 OSPF: [G6NKK-8C6DV] end_config: VTY:0x771cd263f060, pending SET-CFG: 0
+2025/11/22 01:43:05 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x737a0d2a7050, pending SET-CFG: 0
+2025/11/22 01:43:05 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 PATH: [G6NKK-8C6DV] end_config: VTY:0x7194aefc9180, pending SET-CFG: 0
+2025/11/22 01:43:05 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:43:05 BGP: [G6NKK-8C6DV] end_config: VTY:0x78ff546cf0b0, pending SET-CFG: 0
+2025/11/22 01:43:05 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 01:43:05 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 01:44:23 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 LDP: [G6NKK-8C6DV] end_config: VTY:0x78eba4f06610, pending SET-CFG: 0
+2025/11/22 01:44:23 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7d631fe4a060, pending SET-CFG: 0
+2025/11/22 01:44:23 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x79c043843050, pending SET-CFG: 0
+2025/11/22 01:44:23 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 ISIS: [G6NKK-8C6DV] end_config: VTY:0x7148e3e671b0, pending SET-CFG: 0
+2025/11/22 01:44:23 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 BGP: [G6NKK-8C6DV] end_config: VTY:0x7ea840fdf0b0, pending SET-CFG: 0
+2025/11/22 01:44:23 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 PATH: [G6NKK-8C6DV] end_config: VTY:0x7a4b2d87f180, pending SET-CFG: 0
+2025/11/22 01:44:23 ZEBRA: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 01:44:23 ZEBRA: [G6NKK-8C6DV] end_config: VTY:0x7191fc16a6c0, pending SET-CFG: 0
+2025/11/22 01:44:24 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 01:44:24 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 01:55:52 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7ffe8ec71d58 arg=0x7191fe8b0910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 5010ms late, warning threshold 4000ms. System load: 0.10, 0.15, 0.18
+2025/11/22 02:06:57 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x7b371522b050, pending SET-CFG: 0
+2025/11/22 02:06:57 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 LDP: [G6NKK-8C6DV] end_config: VTY:0x731863cfe610, pending SET-CFG: 0
+2025/11/22 02:06:57 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7cda8c37b060, pending SET-CFG: 0
+2025/11/22 02:06:57 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 BGP: [G6NKK-8C6DV] end_config: VTY:0x7eb32bb670b0, pending SET-CFG: 0
+2025/11/22 02:06:57 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 ISIS: [G6NKK-8C6DV] end_config: VTY:0x76be8409e1b0, pending SET-CFG: 0
+2025/11/22 02:06:57 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 STATIC: [G6NKK-8C6DV] end_config: VTY:0x71186f9ce0c0, pending SET-CFG: 0
+2025/11/22 02:06:57 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:06:57 PATH: [G6NKK-8C6DV] end_config: VTY:0x725e65296180, pending SET-CFG: 0
+2025/11/22 02:06:58 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 02:06:58 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 02:09:10 ZEBRA: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 ZEBRA: [G6NKK-8C6DV] end_config: VTY:0x78ad7a4865f0, pending SET-CFG: 0
+2025/11/22 02:09:10 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x71e5a1871050, pending SET-CFG: 0
+2025/11/22 02:09:10 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 LDP: [G6NKK-8C6DV] end_config: VTY:0x73a234fea610, pending SET-CFG: 0
+2025/11/22 02:09:10 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 ISIS: [G6NKK-8C6DV] end_config: VTY:0x7d417aca01b0, pending SET-CFG: 0
+2025/11/22 02:09:10 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 BGP: [G6NKK-8C6DV] end_config: VTY:0x708867a550b0, pending SET-CFG: 0
+2025/11/22 02:09:10 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 PATH: [G6NKK-8C6DV] end_config: VTY:0x71260d013180, pending SET-CFG: 0
+2025/11/22 02:09:10 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 STATIC: [G6NKK-8C6DV] end_config: VTY:0x79a55285f0c0, pending SET-CFG: 0
+2025/11/22 02:09:10 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 02:09:10 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7a7c5d992060, pending SET-CFG: 0
+2025/11/22 02:09:10 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 02:09:10 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 02:11:29 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7fff6b5f1458 arg=0x78ad7cbca910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4838ms late, warning threshold 4000ms. System load: 0.26, 0.59, 0.38
+2025/11/22 02:14:30 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7fff6b5f1458 arg=0x78ad7cbca910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 6071ms late, warning threshold 4000ms. System load: 0.10, 0.38, 0.33
+2025/11/22 02:17:25 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7fff6b5f1458 arg=0x78ad7cbca910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4740ms late, warning threshold 4000ms. System load: 0.07, 0.23, 0.28
+2025/11/22 02:17:36 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7fff6b5f1458 arg=0x78ad7cbca910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4039ms late, warning threshold 4000ms. System load: 0.06, 0.23, 0.27
+2025/11/22 02:21:53 ZEBRA: [VQK5M-9G0V1][EC 100663315] CPU starvation: {(event *)0x7fff6b5f1458 arg=0x78ad7cbca910 ready               wheel_timer_thread() &wheel->timer from lib/wheel.c:50} getting executed 4503ms late, warning threshold 4000ms. System load: 0.01, 0.10, 0.20
+2025/11/22 04:22:52 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 ISIS: [G6NKK-8C6DV] end_config: VTY:0x79d95930d1b0, pending SET-CFG: 0
+2025/11/22 04:22:52 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 BGP: [G6NKK-8C6DV] end_config: VTY:0x70f4836670b0, pending SET-CFG: 0
+2025/11/22 04:22:52 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 LDP: [G6NKK-8C6DV] end_config: VTY:0x7bc34a8ee610, pending SET-CFG: 0
+2025/11/22 04:22:52 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x7f39726aa050, pending SET-CFG: 0
+2025/11/22 04:22:52 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 STATIC: [G6NKK-8C6DV] end_config: VTY:0x75cf3e6ac0c0, pending SET-CFG: 0
+2025/11/22 04:22:52 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7ece37984060, pending SET-CFG: 0
+2025/11/22 04:22:52 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 04:22:52 PATH: [G6NKK-8C6DV] end_config: VTY:0x707509322180, pending SET-CFG: 0
+2025/11/22 04:22:52 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 04:22:52 ZEBRA: [V98V0-MTWPF] client 74 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 04:22:52 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 04:22:52 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 04:22:52 ZEBRA: [V98V0-MTWPF] client 79 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 04:22:52 ZEBRA: [V98V0-MTWPF] client 82 says hello and bids fair to announce only vnc routes vrf=0
+2025/11/22 08:43:38 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x78f2a55bb050, pending SET-CFG: 0
+2025/11/22 08:43:38 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 BGP: [G6NKK-8C6DV] end_config: VTY:0x742d21b5c0b0, pending SET-CFG: 0
+2025/11/22 08:43:38 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 LDP: [G6NKK-8C6DV] end_config: VTY:0x78c307b8c610, pending SET-CFG: 0
+2025/11/22 08:43:38 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 ISIS: [G6NKK-8C6DV] end_config: VTY:0x764b258fe1b0, pending SET-CFG: 0
+2025/11/22 08:43:38 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 STATIC: [G6NKK-8C6DV] end_config: VTY:0x75a15b3540c0, pending SET-CFG: 0
+2025/11/22 08:43:38 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 PATH: [G6NKK-8C6DV] end_config: VTY:0x71b4b5a4c180, pending SET-CFG: 0
+2025/11/22 08:43:38 ZEBRA: [YDG3W-JND95] FD Limit set: 1048576 is stupidly large.  Is this what you intended?  Consider using --limit-fds also limiting size to 100000
+2025/11/22 08:43:38 ZEBRA: [V98V0-MTWPF] client 84 says hello and bids fair to announce only bgp routes vrf=0
+2025/11/22 08:43:38 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:43:38 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7f9b0f4f2060, pending SET-CFG: 0
+2025/11/22 08:43:40 PATH: [NN4XW-E4M3V] IPv6 Router Id updated for VRF 0: 3fff:172:20:20:42:acff:fe14:1406
+2025/11/22 08:46:12 LDP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:12 LDP: [G6NKK-8C6DV] end_config: VTY:0x738422dfd610, pending SET-CFG: 0
+2025/11/22 08:46:12 OSPF: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:12 OSPF: [G6NKK-8C6DV] end_config: VTY:0x7144209e9060, pending SET-CFG: 0
+2025/11/22 08:46:12 ISIS: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:12 ISIS: [G6NKK-8C6DV] end_config: VTY:0x7730764bf1b0, pending SET-CFG: 0
+2025/11/22 08:46:12 PATH: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:12 PATH: [G6NKK-8C6DV] end_config: VTY:0x7a0c1084b180, pending SET-CFG: 0
+2025/11/22 08:46:12 BGP: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:12 BGP: [G6NKK-8C6DV] end_config: VTY:0x75c97d08c0b0, pending SET-CFG: 0
+2025/11/22 08:46:12 STATIC: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:12 STATIC: [G6NKK-8C6DV] end_config: VTY:0x7a31dbfe50c0, pending SET-CFG: 0
+2025/11/22 08:46:12 OSPF6: [VTVCM-Y2NW3] Configuration Read in Took: 00:00:00
+2025/11/22 08:46:12 OSPF6: [G6NKK-8C6DV] end_config: VTY:0x7f0e5692d050, pending SET-CFG: 0
+2025/11/22 09:07:19 PATH: [NN4XW-E4M3V] IPv4 Router Id updated for VRF 0: 10.1.0.3
+2025/11/22 09:07:19 OSPF6: [RB0PM-VM0Y3] interface_up: Not scheduling Hello for eth1 as there is no area assigned yet
+2025/11/22 09:07:19 PATH: [NN4XW-E4M3V] IPv4 Router Id updated for VRF 0: 5.0.0.0
+2025/11/22 09:07:19 PATH: [NN4XW-E4M3V] IPv6 Router Id updated for VRF 0: 5:5:5::
+2025/11/22 09:07:19 OSPF6: [TGY3Y-TNWHZ] Higher order sequence number 0 read for default process No such file or directory
+2025/11/22 09:07:19 OSPF6: [H12G7-14H22] Higher order sequence number 0 update for default process
+2025/11/22 09:07:26 OSPF6: [GHN28-AMRE7] AdjChg: Nbr 5.1.0.3(default) on 5.1.0.3%eth1: Down -> Init (HelloReceived)
+2025/11/22 09:07:26 OSPF6: [GHN28-AMRE7] AdjChg: Nbr 5.1.0.3(default) on 5.1.0.3%eth1: Init -> ExStart (2-WayReceived)
+2025/11/22 09:07:26 OSPF6: [GHN28-AMRE7] AdjChg: Nbr 5.1.0.3(default) on 5.1.0.3%eth1: ExStart -> ExChange (NegotiationDone)
+2025/11/22 09:07:26 OSPF6: [GHN28-AMRE7] AdjChg: Nbr 5.1.0.3(default) on 5.1.0.3%eth1: ExChange -> Loading (ExchangeDone)
+2025/11/22 09:07:26 OSPF6: [GHN28-AMRE7] AdjChg: Nbr 5.1.0.3(default) on 5.1.0.3%eth1: Loading -> Full (LoadingDone)
+2025/11/22 09:07:26 OSPF: [Y05P2-YJVXY] AdjChg: Nbr 5.1.0.3, NbrIP 10.1.0.2 (default) on eth1:10.1.0.3: Down -> Init (HelloReceived)
+2025/11/22 09:07:26 OSPF: [Y05P2-YJVXY] AdjChg: Nbr 5.1.0.3, NbrIP 10.1.0.2 (default) on eth1:10.1.0.3: Init -> ExStart (2-WayReceived)
+2025/11/22 09:07:26 OSPF: [K9Q2W-82MY9] default: Initializing [DD]: 5.1.0.3 with seqnum:6bb4039b , flags:7
+2025/11/22 09:07:26 OSPF: [YPCA4-JHA8Q] default:Packet[DD]: 5.1.0.3 DB Desc send with seqnum:6bb4039b , flags:7
+2025/11/22 09:07:26 OSPF: [SXPB9-WR7E3] default:Packet[DD]: Neighbor 5.1.0.3 state is ExStart, seq_num:0x601f3dd9, local:0x6bb4039b
+2025/11/22 09:07:26 OSPF: [QY7PX-A76VE] Packet[DD]: Neighbor 5.1.0.3 Negotiation done (Slave).
+2025/11/22 09:07:26 OSPF: [Y05P2-YJVXY] AdjChg: Nbr 5.1.0.3, NbrIP 10.1.0.2 (default) on eth1:10.1.0.3: ExStart -> Exchange (NegotiationDone)
+2025/11/22 09:07:26 OSPF: [YPCA4-JHA8Q] default:Packet[DD]: 5.1.0.3 DB Desc send with seqnum:601f3dd9 , flags:0
+2025/11/22 09:07:26 OSPF: [SXPB9-WR7E3] default:Packet[DD]: Neighbor 5.1.0.3 state is Exchange, seq_num:0x601f3dda, local:0x601f3dd9
+2025/11/22 09:07:26 OSPF: [YPCA4-JHA8Q] default:Packet[DD]: 5.1.0.3 DB Desc send with seqnum:601f3dda , flags:0
+2025/11/22 09:07:26 OSPF: [Y05P2-YJVXY] AdjChg: Nbr 5.1.0.3, NbrIP 10.1.0.2 (default) on eth1:10.1.0.3: Exchange -> Loading (ExchangeDone)
+2025/11/22 09:07:26 OSPF: [Y05P2-YJVXY] AdjChg: Nbr 5.1.0.3, NbrIP 10.1.0.2 (default) on eth1:10.1.0.3: Loading -> Full (LoadingDone)
+2025/11/22 09:07:26 OSPF: [S3578-FNEB0] nsm_change_state:[5.1.0.3:default], Loading -> Full): scheduling new router-LSA origination
